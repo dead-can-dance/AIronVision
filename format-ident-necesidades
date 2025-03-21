@@ -1,0 +1,156 @@
+📝 2. Contexto y Situación Actual
+📍 2.1 Descripción del Contexto
+Ubicación y Demografía:
+La población objetivo son jóvenes y adultos (18 a 40 años) interesados en mejorar su rendimiento físico, particularmente en el ámbito del entrenamiento de fuerza e hipertrofia. Este grupo suele acudir a gimnasios comerciales, centros de entrenamiento funcional o realizar rutinas desde casa.
+El proyecto también apunta a personas que buscan optimizar su entrenamiento mediante la adopción de nuevas tecnologías.
+
+Características Socioeconómicas:
+
+Nivel socioeconómico medio-alto, con acceso a dispositivos móviles y tecnologías digitales.
+Interés creciente por el fitness, la salud y la mejora del rendimiento físico.
+Predisposición a invertir en servicios o aplicaciones que mejoren su entrenamiento y resultados.
+Factores que Afectan a la Población Objetivo:
+
+Falta de Personalización: La mayoría sigue rutinas genéricas que no consideran su progresión individual.
+Técnica Incorrecta: La falta de supervisión provoca errores técnicos que aumentan el riesgo de lesiones.
+Estancamiento y Falta de Progreso: Sin ajustes óptimos, los usuarios suelen quedarse en una meseta.
+🚨 2.2 Identificación de Problemas y Necesidades
+Problemas Identificados:
+
+Falta de Personalización del Entrenamiento: Las rutinas genéricas no consideran la fatiga, volumen e intensidad adecuada para cada persona.
+Errores Técnicos en Ejercicios Clave: La mala técnica provoca lesiones y disminuye la efectividad del entrenamiento.
+Estancamiento y Pérdida de Motivación: La falta de ajustes adecuados genera frustración al no ver resultados.
+Impacto en la Calidad de Vida:
+
+Social: Aumenta la desmotivación y abandono del entrenamiento.
+Económico: Gasto innecesario en entrenadores o suplementos que no generan resultados.
+Salud: Incremento del riesgo de lesiones y problemas físicos a largo plazo.
+Prioridad de Necesidades:
+
+Alta: Personalización y ajuste inteligente del entrenamiento.
+Alta: Corrección de técnica para evitar lesiones.
+Media: Prevención del estancamiento mediante análisis de progreso y ajuste continuo.
+
+/*PENDIENTE CON LA ENCUESTA
+
+🤝 2.3 Participación Comunitaria
+Involucramiento de la Comunidad:
+Se realizaron encuestas y entrevistas a usuarios de gimnasios, entrenadores y fisioterapeutas para identificar necesidades y percepciones.
+
+Los usuarios destacaron la falta de personalización y feedback técnico en sus entrenamientos.
+Los entrenadores identificaron que la corrección técnica en tiempo real es difícil cuando supervisan a varios clientes a la vez.
+La comunidad mostró interés en soluciones tecnológicas que proporcionen retroalimentación personalizada y eviten lesiones.
+Percepciones y Soluciones Deseadas:
+
+Herramientas que analicen la técnica y sugieran correcciones en tiempo real.
+Programas que ajusten automáticamente la carga y el volumen de entrenamiento.
+Un sistema interactivo que brinde asesoramiento personalizado y seguimiento constante.
+
+*/
+🧐 3. Evaluación Previa de los Problemas Detectados
+⚡️ 3.1 Análisis de Causas
+Causas Principales:
+
+Falta de conocimiento sobre periodización y ajuste del volumen.
+Ausencia de retroalimentación técnica en tiempo real.
+Uso de rutinas genéricas que no se adaptan al progreso del usuario.
+Interrelación de Causas:
+
+La falta de personalización lleva al estancamiento.
+El estancamiento desmotiva al usuario, lo que aumenta el riesgo de abandono.
+Los errores técnicos, no corregidos a tiempo, provocan lesiones que interrumpen el progreso.
+💡 3.2 Recursos Disponibles y Condiciones Existentes
+Recursos Existentes:
+
+Acceso a tecnología móvil y cámaras para análisis de movimiento.
+Herramientas de IA (OpenCV, MediaPipe, TensorFlow) para análisis de técnica.
+Infraestructura de gimnasios y centros deportivos dispuestos a implementar tecnología innovadora.
+Condiciones Externas:
+
+Tendencia creciente hacia el uso de aplicaciones de fitness y entrenamiento personalizado.
+Potencial de alianzas con gimnasios, entrenadores y plataformas de fitness digital.
+📊 3.3 Evaluación de Impacto
+Impacto Actual:
+
+Estancamiento y abandono del entrenamiento.
+Aumento del riesgo de lesiones.
+Pérdida de tiempo y dinero en programas no efectivos.
+Gravedad de la Situación:
+
+Alta incidencia de lesiones relacionadas con la mala técnica.
+Gran porcentaje de usuarios que abandonan el entrenamiento por falta de resultados.
+🔥 4. Formulación de Recomendaciones
+🎯 4.1 Soluciones Propuestas
+Corto Plazo:
+
+Desarrollar un MVP para probar el algoritmo de periodización inteligente y análisis de técnica con un grupo piloto.
+Implementar un coach virtual para ofrecer retroalimentación conversacional inicial.
+Largo Plazo:
+
+Optimizar los modelos de IA para adaptar la periodización y analizar técnica en tiempo real.
+Escalar la aplicación para llegar a comunidades fitness a nivel nacional/internacional.
+Cambios Específicos:
+
+Reducción del riesgo de lesiones.
+Mejora en la adherencia al entrenamiento.
+Aumento del rendimiento muscular y mejores resultados.
+🌱 4.2 Recomendaciones Estratégicas
+Alineación con Desarrollo Sostenible:
+
+Promover la salud y el bienestar mediante tecnología innovadora.
+Utilizar recursos tecnológicos para optimizar entrenamientos sin necesidad de supervisión constante.
+Sostenibilidad de la Solución:
+
+Monetización mediante suscripción o modelo freemium.
+Alianzas estratégicas con gimnasios y entrenadores para asegurar adopción masiva.
+Alianzas Clave:
+
+Entrenadores certificados.
+Plataformas de fitness online.
+Universidades o centros de investigación interesados en innovación deportiva.
+🚀 5. Toma de Decisiones sobre Acciones a Seguir
+📝 5.1 Prioridades de Acción
+Primero: Desarrollo del algoritmo de periodización y análisis técnico.
+
+Luego: Entrenamiento del coach virtual y prueba piloto.
+
+Finalmente: Expansión a comunidades fitness.
+
+Liderazgo de Acciones:
+
+Desarrolladores de IA y Computer Vision.
+Especialistas en entrenamiento de fuerza e hipertrofia.
+Alianzas con centros deportivos para pruebas piloto.
+📅 5.2 Plan de Implementación
+Mes 1-2: Desarrollo del MVP con análisis básico de periodización.
+Mes 3-4: Implementación del coach virtual.
+Mes 5-6: Integración del análisis de técnica y pruebas piloto.
+Mes 7-8: Evaluación y ajustes antes del lanzamiento oficial.
+⚠️ 5.3 Evaluación de Riesgos
+Riesgos Potenciales:
+
+Falta de financiamiento inicial.
+Resistencia del mercado a adoptar nuevas tecnologías.
+Problemas técnicos en la implementación del análisis de técnica en tiempo real.
+Estrategias de Mitigación:
+
+Alianzas estratégicas para reducir costos iniciales.
+Programas de capacitación para entrenadores.
+Pruebas exhaustivas para asegurar precisión técnica.
+📈 6. Monitoreo y Evaluación
+📊 6.1 Indicadores de Seguimiento
+Número de usuarios activos: Crecimiento mensual.
+
+Reducción de lesiones: Comparación pre y post implementación.
+
+Adherencia al entrenamiento: Porcentaje de usuarios que mantienen el programa por más de 3 meses.
+
+Frecuencia de Evaluación:
+
+Mensual: Seguimiento de métricas clave.
+Trimestral: Evaluación de impacto y ajustes.
+🌱 6.2 Evaluación de Impacto
+Evaluación Social y Ambiental:
+Medir impacto en salud y bienestar.
+Analizar cambios en hábitos de entrenamiento y reducción de lesiones.
+Evaluar sostenibilidad del modelo financiero y técnico.
